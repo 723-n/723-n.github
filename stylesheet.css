@@ -15,6 +15,7 @@ body{
 
 .main{
  margin: 0px 70px 0px 0px;
+ font-size: 20px;
 }
 
 .table{
@@ -25,4 +26,5 @@ body{
 .footer-table{
  border-collapse: collapse;
  margin: 0px 0px 0px 280px;
+ font-size: 20px;
 }
